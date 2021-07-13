@@ -1,2 +1,2 @@
 # Dimension
-Dimension is a 2D game engine using MonoGame and Winforms.
+Dimension is a 3D game engine using MonoGame and Winforms.
